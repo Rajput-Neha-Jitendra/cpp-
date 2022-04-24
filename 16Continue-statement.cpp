@@ -1,5 +1,5 @@
 /*Continue with for-loop
-program to print the value of i
+program to print the value of i*/
 
 #include <iostream>
 using namespace std;
@@ -15,13 +15,12 @@ int main() {
     }
 
     return 0;
-}*/
+}
 
 /*Continue with While-Loop
  program to calculate positive numbers till 50 only
  if the user enters a negative number,
  that number is skipped from the calculation
-
  negative number -> loop terminate
  numbers above 50 -> skip iteration*/
 
