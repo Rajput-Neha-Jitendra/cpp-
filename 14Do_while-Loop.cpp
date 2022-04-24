@@ -36,7 +36,7 @@ int main() {
         cout << "Enter a number: ";
         cin >> number;
     }
-    while (number >= 0);
+    while (number >= 5);
     
     // display the sum
     cout << "\nThe sum is " << sum << endl;
