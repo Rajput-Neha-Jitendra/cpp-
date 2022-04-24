@@ -9,7 +9,7 @@ int main() {
     return 0;
 }
 
-/*C++ Program to display a text 5 times
+//C++ Program to display a text 5 times
 
 #include <iostream>
 
@@ -42,5 +42,5 @@ int main() {
     cout << "Sum = " << sum << endl;
 
     return 0;
-}*/
+}
     
